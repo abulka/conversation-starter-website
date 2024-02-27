@@ -2,7 +2,8 @@
 
 A Conversation Starter and Inspirational Quote generator.
 
-![Image](images/feature-graphic-v1.png?raw=true)
+![Image](images/feature-graphic-v1-portrait.png?raw=true)
+![Image](images/feature-graphic-v2-portrait.png?raw=true)
 
 ## How it works
 
